@@ -1,3 +1,8 @@
+This is an unnoficial split from Hashlips, with an update_rarity function that updates metadata with count (number of attributes in collection) and frequency (percentage of attributes making the collection), making it more compliant with NFT marketplaces like PS.
+
+I take no claim to these these updates. They were added to the hashlips pull requests and I cant find them anymore.
+All praise to Hashlips and the contributers there.
+
 # Welcome to HashLips 👄
 
 ![](https://github.com/HashLips/hashlips_art_engine/blob/main/logo.png)
